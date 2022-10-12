@@ -9,6 +9,15 @@ return new class extends Migration
     /**
      * Run the migrations.
      *
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
      * @return void
      */
     public function up()//this is migration file to create table in DB
